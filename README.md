@@ -44,7 +44,7 @@ Home page
 ![Screenshot (29)](https://github.com/meghanareddy1808/ShoppIt/assets/108571707/d862f28d-5a15-4567-807d-2dea35e142cd)
 ![Screenshot (28)](https://github.com/meghanareddy1808/ShoppIt/assets/108571707/1becacbe-d188-4686-b6da-e12d85c520a6)
 ![Screenshot (30)](https://github.com/meghanareddy1808/ShoppIt/assets/108571707/85cfa843-ec6e-43bf-b081-cf52321377bf)
-![Screenshot (31)](https://github.com/meghanareddy1808/ShoppIt/assets/108571707/66b5443a-6c71-419d-877f-eed7269569b9)
+
 Products(Season's Top Picks)
 
 
