@@ -1,0 +1,14 @@
+//length of string is more>...are shown
+
+export const addEllipsis=(text)=>{
+    if(text.length>50)
+    {
+        return text.substring(0,50)+'...';
+    }
+    else 
+    {
+        return text;
+    }
+
+
+}
