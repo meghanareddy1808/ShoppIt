@@ -24,6 +24,41 @@ Flipkart Clone 🚀
 - My Orders 
 - Increase/Decrease Order Quantity
 - Product Details Page
+
+ ## Sneak Peek into the Website
+ 
+ Login
+ 
+ 
+![Login](https://github.com/meghanareddy1808/ShoppIt/assets/108571707/0a6e0afb-3d7f-4f49-89cd-7e10b8faf60c)
+SignUp
+
+
+![Signup](https://github.com/meghanareddy1808/ShoppIt/assets/108571707/e82c5427-9526-4a69-8c35-d3ead51234b6)
+User not found
+
+
+![User not found](https://github.com/meghanareddy1808/ShoppIt/assets/108571707/9f02d0c0-33cc-4c83-ac0a-28985b5dd619)
+Home Page
+
+
+![Screenshot (28)](https://github.com/meghanareddy1808/ShoppIt/assets/108571707/7c010cfb-e687-4c83-9012-9e508fedae44)
+![Screenshot (29)](https://github.com/meghanareddy1808/ShoppIt/assets/108571707/dd8359ae-bae9-4a02-8e40-bfd0dca0a837)
+![Screenshot (30)](https://github.com/meghanareddy1808/ShoppIt/assets/108571707/0545d789-841d-4a51-86e3-2db5e13e2ec2)
+![Screenshot (31)](https://github.com/meghanareddy1808/ShoppIt/assets/108571707/3481a5e9-2855-457d-b369-d94c27add1d8)
+Sesons's Top Picks
+
+
+![Screenshot (35)](https://github.com/meghanareddy1808/ShoppIt/assets/108571707/6f237e83-09b2-45b9-8565-bb7fdda64273)
+Product Detail Page
+
+
+![Screenshot (36)](https://github.com/meghanareddy1808/ShoppIt/assets/108571707/24ff8b36-58c3-459b-b538-bd7e2895fd72)
+Cart
+
+
+![Screenshot (40)](https://github.com/meghanareddy1808/ShoppIt/assets/108571707/1cb0e7fc-baab-4f18-b816-2008a1bfa2ea)
+![Screenshot (42)](https://github.com/meghanareddy1808/ShoppIt/assets/108571707/0438c65e-9076-459d-aeda-e8e591f24aa9)
  
  
 
