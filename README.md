@@ -26,21 +26,20 @@ Flipkart Clone 🚀
 - Product Details Page
  
  ## Sneak Peek into the Website:
- # Login Page
+ Login Page
  ![Screenshot (37)](https://github.com/meghanareddy1808/ShoppIt/assets/108571707/9f8ce721-a322-4696-a99c-7155ee3a4b9a)
- # Signup Page
- 
+ Signup Page
  ![Screenshot (38)](https://github.com/meghanareddy1808/ShoppIt/assets/108571707/6d76d1e6-ac62-49e7-bcbb-a56bcd72c7d4)
- # User not found
+ User not found
 ![Screenshot (34)](https://github.com/meghanareddy1808/ShoppIt/assets/108571707/335def7f-5629-4d10-b0e3-cb068840d444)
-# Home page
+Home page
 ![Screenshot (29)](https://github.com/meghanareddy1808/ShoppIt/assets/108571707/d862f28d-5a15-4567-807d-2dea35e142cd)
 ![Screenshot (28)](https://github.com/meghanareddy1808/ShoppIt/assets/108571707/1becacbe-d188-4686-b6da-e12d85c520a6)
 ![Screenshot (30)](https://github.com/meghanareddy1808/ShoppIt/assets/108571707/85cfa843-ec6e-43bf-b081-cf52321377bf)
 ![Screenshot (31)](https://github.com/meghanareddy1808/ShoppIt/assets/108571707/66b5443a-6c71-419d-877f-eed7269569b9)
-# Products(Season's Top Picks)
+Products(Season's Top Picks)
 ![Screenshot (35)](https://github.com/meghanareddy1808/ShoppIt/assets/108571707/f0fa1d5b-ae5e-4a97-81f3-62d23ad7f4fc)
-# Product Detail Page
+Product Detail Page
 ![Screenshot (36)](https://github.com/meghanareddy1808/ShoppIt/assets/108571707/ec896d94-3b1c-4b9a-bf15-b6d1db75e9d1)
 
 
