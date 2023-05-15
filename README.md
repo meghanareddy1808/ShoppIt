@@ -24,6 +24,9 @@ Flipkart Clone 🚀
 - My Orders 
 - Increase/Decrease Order Quantity
 - Product Details Page
+ 
+ ## Sneak Peek into the Website:
+ ![Screenshot (37)](https://github.com/meghanareddy1808/ShoppIt/assets/108571707/9f8ce721-a322-4696-a99c-7155ee3a4b9a)
 
 
 
